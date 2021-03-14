@@ -229,6 +229,34 @@ th {
     padding: 0
 }
 
+/*---correction SEO---*/
+
+
+.description{
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.citation h2{
+    font-size: 20px;
+    width: 82%;
+    margin: auto;
+}
+.name__cite{
+    font-size: 14px;
+}
+.titre__realisations{
+    width: 45%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+/*---correction SEO---*/
+
+
+
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 
 @media print {
