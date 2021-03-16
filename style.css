@@ -393,6 +393,18 @@ a:hover {
     margin-right: auto;
     margin-left: auto;
 }
+.col-sm-4 a, .social{
+    padding-top: 18px ;
+    padding-bottom: 18px;
+}
+.social{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.col-sm-4 li{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
 
 
 
