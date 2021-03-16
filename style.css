@@ -362,6 +362,43 @@ a:hover {
     z-index: 2;
 }
 
+/*---correction SEO---*/
+
+
+.description{
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.citation{
+    font-size: 20px;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    color: rgb(45, 45, 45);
+}
+.name__cite{
+    font-size: 14px;
+}
+.titre__realisations{
+    width: 45%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.carousel-inner>.item>a>img,
+.carousel-inner>.item>img,
+.img-responsive,
+.thumbnail a>img,
+.thumbnail>img {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+/*---correction SEO---*/
+
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
